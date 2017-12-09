@@ -12,6 +12,8 @@
         android:id="@+id/textView"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
         android:fontFamily="cursive"
         android:text="            CLASS XYZ"
         android:textColor="@color/colorPrimaryDark"
@@ -24,6 +26,7 @@
         android:layout_width="146dp"
         android:layout_height="39dp"
         android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
         android:layout_marginTop="24dp"
         android:ems="10"
         android:hint="Enter Assignment name"
@@ -34,7 +37,7 @@
 
     <EditText
         android:id="@+id/editText2"
-        android:layout_width="87"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -65,7 +68,9 @@
         android:layout_width="87dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="14dp"
+        android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
         android:layout_marginTop="24dp"
         android:ems="10"
         android:hint="Max Points"
@@ -80,6 +85,7 @@
         android:layout_width="60dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
         android:layout_marginTop="24dp"
         android:ems="10"
         android:hint="Points"
@@ -93,6 +99,7 @@
         android:layout_width="58dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="Points"
@@ -106,6 +113,7 @@
         android:layout_width="61dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="Points"
@@ -119,6 +127,7 @@
         android:layout_width="56dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="Points"
@@ -132,6 +141,7 @@
         android:layout_width="56dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="Points"
@@ -178,7 +188,7 @@
 
     <EditText
         android:id="@+id/editText14"
-        android:layout_width="87"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -194,7 +204,7 @@
 
     <EditText
         android:id="@+id/editText15"
-        android:layout_width="87"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -210,7 +220,7 @@
 
     <EditText
         android:id="@+id/editText16"
-        android:layout_width="87"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
